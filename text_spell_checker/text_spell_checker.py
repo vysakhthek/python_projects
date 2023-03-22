@@ -26,8 +26,4 @@ while tries:
             print("\nInvalid input. Please enter 1 or 2.")
 else:
     print("\nThank you for using Spell Checker")
-        
-
-
-
 
