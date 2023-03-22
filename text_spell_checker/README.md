@@ -3,9 +3,9 @@ First install textblob library using the command:
 
 pip install textblob
 
-If you are using the ipynb file run the install cell first
+If you are using the ipynb file run the install cell first.
 
-## TextBlob is a simple library which supports complex analysis and operations on textual data.
+### TextBlob is a simple library which supports complex analysis and operations on textual data.
 
 
 Output Screenshots:
