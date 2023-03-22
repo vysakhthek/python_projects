@@ -1,5 +1,6 @@
 # Text Spell Checker
-You can see the code both as a python file and a python notebook file
+You can see the code both as a python file and a python notebook file.
+
 First install textblob library using the command:
 
 pip install textblob
