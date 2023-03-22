@@ -5,10 +5,10 @@ pip install textblob
 
 If you are using the ipynb file run the install cell first
 
-# TextBlob is a simple library which supports complex analysis and operations on textual data.
+## TextBlob is a simple library which supports complex analysis and operations on textual data.
 
 
-Output Screen Shots:
+Output Screenshots:
 
 ![Screenshot from 2023-03-22 08-09-50](https://user-images.githubusercontent.com/116060493/226802574-23ca3007-99dc-46d0-82be-4ba635cdd93b.png)
 
