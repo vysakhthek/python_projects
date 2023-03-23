@@ -1,5 +1,5 @@
 # Text Spell Checker
-You can see the code in Python file and a Python notebook file.
+You can see the code in Python file and a Python notebook file. Use python 3.x vesion.
 
 First install textblob library using the command:
 
